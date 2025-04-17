@@ -1,1 +1,1 @@
-print("Hello from Python CI APP!") 
+print("Hello from Python CI APP!")
